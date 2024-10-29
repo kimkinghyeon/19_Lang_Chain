@@ -1,0 +1,3 @@
+_type: "prompt"
+template: "{language} 언어에 대해 3줄로 설명해줘"
+input_variable: ["language"]
